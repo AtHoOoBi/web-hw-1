@@ -1,0 +1,7 @@
+#king {
+  border: 2px solid black;
+  padding: 25px;
+  background: url(./assets/images/social-share-image.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+}
