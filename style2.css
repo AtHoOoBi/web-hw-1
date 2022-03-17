@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(112, 100, 100);
+}
+.button {
+  background-color: #00000075;
+  color: rgb(255, 255, 255);
+  border: 2px solid #5b82ad75;
+}
+.buttonn:hover {
+  background-color: #32313d75;
+  color: rgb(255, 255, 255);
+}
+
+.hand {
+  cursor: pointer;
+}
+h1 {
+  color: rgb(0, 0, 0);
+  display: flex;
+  justify-content: center;
+}
+.container {
+  /* display: flex;
+      justify-content: center;
+      margin: auto; */
+
+  padding: 295px;
+  text-align: center;
+}
